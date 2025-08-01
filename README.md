@@ -1,2 +1,4 @@
-# cFLMM_eLife
-Reproduce figures and experiments in our eLife Research Advance applying concurrent functional linear mixed modeling to photometry data
+# fastFMMdemo: Example code to apply `fastFMM`
+
+We provide this code to help readers reproduce figures and experiments in our manuscript.
+
