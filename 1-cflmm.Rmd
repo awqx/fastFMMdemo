@@ -1,0 +1,10 @@
+---
+title: "Figure 1: Visualization of an example concurrent functional linear mixed model on synthetic data."
+author: "Al Xin"
+date: "2025-08-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
